@@ -1,0 +1,23 @@
+{
+  "name": "vivek_0042",
+  "version": "1.0.0",
+  "description": "hi this is test folder",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "mustache": "^4.2.0",
+    "nodemon": "^2.0.20",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "viv"
+  ],
+  "author": "vivek jain",
+  "license": "ISC"
+}
